@@ -1,38 +1,31 @@
-const verbs=[
+const verbos=[
     'open',
-    'close'
-];
-const verbs=[
+    'close',
     'abrir',
-    'cerrar'
+    'cerrar',
+    'caminar',
+    'cerrar',
+    'citar',
+    'cocinar',
+    'considerar',
+
 ];
 const verbs=[
     'aceptar',
     'amar',
     'aprender',
     'apresurarse',
-    'atreverse'
-
-];
-const verbs=[
+    'atreverse',
     'accepted',
     'loved',
     'learned',
     'hurried',
-    'dared'
-
-];
-const verbs=[
-    'caminar',
-    'cerrar',
-    'citar',
-    'cocinar',
-    'considerar'
-];
-const verbs=[
+    'dared',
     'walked',
     'closed',
     'dated',
     'cooked',
-    'considered'
+    'considered',
+
+
 ];

@@ -17,3 +17,8 @@
     border-color: #b33030;
     color: #fff;
 }
+#next{
+    margin-top:8cm;
+    cursor: pointer;
+    color: green;
+}
