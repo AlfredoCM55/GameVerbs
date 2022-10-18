@@ -68,6 +68,10 @@ third.addEventListener("click", function(){
 fourth.addEventListener("click", function(){
   buttonEffect(itsRight_(fourth.innerHTML),this);
 });
+btn.addEventListener("click", function(){
+  location.reload();
+  console.log("pagereload")
+})
 
 function shuffleAnswers(array) {
   
@@ -134,10 +138,6 @@ function ponerVerbo(){
     allRightCounter.innerHTML = "Right answers: "+allRightAnswers;
     showAction.innerHTML = "Haz Acertado";
     
-    btn.addEventListener("click", function(){
-        location.reload();
-        console.log("pagereload")
-    })
     verbsContainer.innerHTML = "";
   }
 }
